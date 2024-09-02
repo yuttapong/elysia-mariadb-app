@@ -1,10 +1,8 @@
 # Elysia with Bun runtime
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+## Test Elysia with MariaDB or MySQL
+
+ทดสอบ Elysia ทำงานร่วมกับฐานข้อมูล MariaDB หรือ MySQL
 
 ## Development
 To start the development server run:
