@@ -1,0 +1,6 @@
+{
+  "out": "./src/db/migrations",
+  "schema": "./src/db/index.ts",
+  "dialect": "mysql",
+  "breakpoints": true
+}
